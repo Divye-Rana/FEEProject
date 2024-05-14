@@ -12,7 +12,7 @@
             min.innerHTML=dt.getMinutes();
             sec.innerHTML=dt.getSeconds();
          }
-
+...
          
          function display()
          {
