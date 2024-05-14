@@ -4,7 +4,7 @@
         min=document.getElementById("min");
         sec=document.getElementById("sec");
         
-
+////
          function time()
          {
             var dt=new Date()
